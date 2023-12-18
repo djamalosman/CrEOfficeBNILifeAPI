@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KhxSqNxSoUWIVVqrcFviOOaVdGx1IRndmK4J4/gko/o=",
+  "Source": "EOfficeBNILAPI",
+  "BasePath": "_content/EOfficeBNILAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
